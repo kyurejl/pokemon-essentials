@@ -28,3 +28,16 @@ Thumbs.db
 # Temp files
 
 ~*
+rmxp_scripts.rb
+Data/Scripts/022_Plugins
+reshade-shaders/
+reshade.ini
+reshadepreset.ini
+opengl32.dll
+opengl32.log
+reshade_setup_4.9.1.exe
+eventtextdump.txt
+cmd.bat
+game_debug.bat
+.fake
+.ionide

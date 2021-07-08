@@ -1,4 +1,25 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
+[POKEMONBOXLINK]
+Name = Pokémon Box Link
+NamePlural = Pokémon Box Links
+Pocket = 8
+Price = 0
+Type = KeyItem
+Description = A device that allows you to access the Pokémon storage system. There are some places where it won't work.
+#-------------------------------
+[BOTTLECAP]
+Name = Bottle Cap
+NamePlural = Bottle Caps
+Pocket = 1
+Price = 2500
+Description = A beautiful bottle cap that gives off a silver gleam. Some people are happy to receive one.
+#-------------------------------
+[GOLDBOTTLECAP]
+Name = Gold Bottle Cap
+NamePlural = Gold Bottle Caps
+Pocket = 1
+Price = 5000
+Description = A beautiful bottle cap that gives off a golden gleam. Some people are happy to receive one.
 #-------------------------------
 [REPEL]
 Name = Repel
