@@ -1,53 +1,5 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[PHANTOMOFBLIZZARD]
-Name = Phantom of Blizzard
-Type = ICE
-Category = Physical
-BaseDamage = 120
-Accuracy = 100
-TotalPP = 5
-Target = NearOther
-FunctionCode = 000
-Flags = Contact,CanProtect,CanMirrorMove
-Description = The user slash the target with the energy of moonlight, reducing its Defense and Speed stats.
-#-------------------------------
-[MOONSLASH]
-Name = Moon Slash
-Type = FAIRY
-Category = Physical
-BaseDamage = 90
-Accuracy = 100
-TotalPP = 5
-Target = NearOther
-FunctionCode = 300
-Flags = Contact,CanProtect,CanMirrorMove
-Description = The user slash the target with the energy of moonlight, reducing its Defense and Speed stats.
-#-------------------------------
-[LUNATICBLADE]
-Name = Lunatic Blade
-Type = FLYING
-Category = Physical
-BaseDamage = 50
-Accuracy = 100
-TotalPP = 15
-Target = NearOther
-FunctionCode = 300
-Flags = Contact,CanProtect,CanMirrorMove
-Description = The user launches a wind blade in the target, reducing its Defense and Speed stats.
-#-------------------------------
-[FRENZYSPRINT]
-Name = Frenzy Sprint
-Type = FIGHTING
-Category = Physical
-BaseDamage = 70
-Accuracy = 100
-TotalPP = 15
-Target = NearOther
-FunctionCode = 0BB
-Flags = Contact,CanProtect,CanMirrorMove
-Description = For five turns, the foe is prevented from using any moves, Abilities, or held items that recover HP.
-#-------------------------------
 [MEGAHORN]
 Name = Megahorn
 Type = BUG
